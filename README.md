@@ -1,4 +1,4 @@
 # Here is Example for program
 ## Main Window:
-![window with soul](https://user-images.githubusercontent.com/119451645/214735636-2a169c7c-233e-4680-a09d-8b62e0f1cfb2.png)
 
+![Mainwindow](https://user-images.githubusercontent.com/119451645/214735964-5415a1b5-b977-4da6-999c-90e464b8c6de.png)
